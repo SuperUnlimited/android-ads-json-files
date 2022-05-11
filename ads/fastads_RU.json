@@ -93,20 +93,6 @@
                 "adPlaceID":"ca-app-pub-5386258317333363\/2554034622",
                 "adStatus":1,
                 "adSize":"big"
-             },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/7165069763",
-                "adStatus":1,
-                "adSize":"big"
-             },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/4797054589",
-                "adStatus":1,
-                "adSize":"big"
              }
           ]
        },
@@ -172,20 +158,6 @@
                 "adPlaceID":"ca-app-pub-5386258317333363\/9805245784",
                 "adStatus":1,
                 "adSize":"big"
-             },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/2613151472",
-                "adStatus":1,
-                "adSize":"big"
-             },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/8586112007",
-                "adStatus":1,
-                "adSize":"big"
              }
           ]
        },
@@ -202,20 +174,6 @@
                 "adSourceName":"admob",
                 "adFormatType":"adv_nav",
                 "adPlaceID":"ca-app-pub-5386258317333363\/1856902767",
-                "adStatus":1,
-                "adSize":"big"
-             },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/1665331073",
-                "adStatus":1,
-                "adSize":"big"
-             },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/9160677711",
                 "adStatus":1,
                 "adSize":"big"
              }
