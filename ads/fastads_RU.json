@@ -154,20 +154,6 @@
                 "adPlaceID":"ca-app-pub-5386258317333363\/4385991045",
                 "adStatus":1,
                 "adSize":"big"
-             },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_ban",
-                "adPlaceID":"ca-app-pub-5386258317333363\/2881337689",
-                "adStatus":1,
-                "adSize":"big"
-             },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_ban",
-                "adPlaceID":"ca-app-pub-5386258317333363\/6437439310",
-                "adStatus":1,
-                "adSize":"big"
              }
           ]
        },
