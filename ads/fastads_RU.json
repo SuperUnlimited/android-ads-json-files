@@ -19,23 +19,9 @@
              },
              {
                 "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/8955791445",
-                "adStatus":1,
-                "adSize":"big"
-             },
-             {
-                "adSourceName":"admob",
                 "adFormatType":"int",
                 "adPlaceID":"ca-app-pub-5386258317333363\/8394390956",
                 "adStatus":1
-             },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/1077301428",
-                "adStatus":1,
-                "adSize":"big"
              },
              {
                 "adSourceName":"admob",
@@ -46,7 +32,7 @@
              {
                 "adSourceName":"admob",
                 "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/3511893070",
+                "adPlaceID":"ca-app-pub-5386258317333363\/2035159876",
                 "adStatus":1,
                 "adSize":"big"
              }
@@ -71,22 +57,8 @@
              },
              {
                 "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/5754913032",
-                "adStatus":1,
-                "adSize":"big"
-             },
-             {
-                "adSourceName":"admob",
                 "adFormatType":"int",
                 "adPlaceID":"ca-app-pub-5386258317333363\/8941185862",
-                "adStatus":1,
-                "adSize":"big"
-             },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/9128069888",
                 "adStatus":1,
                 "adSize":"big"
              },
@@ -100,7 +72,7 @@
              {
                 "adSourceName":"admob",
                 "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/4058687989",
+                "adPlaceID":"ca-app-pub-5386258317333363\/2035159876",
                 "adStatus":1,
                 "adSize":"big"
              }
@@ -152,20 +124,8 @@
              },
              {
                 "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/2035159876",
-                "adStatus":1
-             },
-             {
-                "adSourceName":"admob",
                 "adFormatType":"int",
                 "adPlaceID":"ca-app-pub-5386258317333363\/5029861011",
-                "adStatus":1
-             },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/6904343177",
                 "adStatus":1
              },
              {
@@ -177,7 +137,7 @@
              {
                 "adSourceName":"admob",
                 "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/8025853150",
+                "adPlaceID":"ca-app-pub-5386258317333363\/2035159876",
                 "adStatus":1
              }
           ]
