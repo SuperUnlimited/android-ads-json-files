@@ -17,27 +17,13 @@
                 "adPlaceID":"ca-app-pub-5386258317333363\/6919820896",
                 "adStatus":1
              },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/6661672733",
-                "adStatus":1,
-                "adSize":"big"
-             },
-             {
+                         {
                 "adSourceName":"admob",
                 "adFormatType":"int",
                 "adPlaceID":"ca-app-pub-5386258317333363\/4293657553",
                 "adStatus":1
              },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/8844998857",
-                "adStatus":1,
-                "adSize":"big"
-             },
-             {
+                         {
                 "adSourceName":"admob",
                 "adFormatType":"int",
                 "adPlaceID":"ca-app-pub-5386258317333363\/4102085868",
@@ -46,7 +32,7 @@
              {
                 "adSourceName":"admob",
                 "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/2618501859",
+                "adPlaceID":"ca-app-pub-5386258317333363\/6661672733",
                 "adStatus":1,
                 "adSize":"big"
              }
@@ -69,28 +55,14 @@
                 "adStatus":1,
                 "adSize":"big"
              },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/2638667245",
-                "adStatus":1,
-                "adSize":"big"
-             },
-             {
+                         {
                 "adSourceName":"admob",
                 "adFormatType":"int",
                 "adPlaceID":"ca-app-pub-5386258317333363\/6345105821",
                 "adStatus":1,
                 "adSize":"big"
              },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/7699422234",
-                "adStatus":1,
-                "adSize":"big"
-             },
-             {
+                         {
                 "adSourceName":"admob",
                 "adFormatType":"int",
                 "adPlaceID":"ca-app-pub-5386258317333363\/9901207458",
@@ -100,7 +72,7 @@
              {
                 "adSourceName":"admob",
                 "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/7507850542",
+                "adPlaceID":"ca-app-pub-5386258317333363\/2638667245",
                 "adStatus":1,
                 "adSize":"big"
              }
@@ -119,25 +91,13 @@
                 "adPlaceID":"ca-app-pub-5386258317333363\/3291567071",
                 "adStatus":1
              },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/1496991872",
-                "adStatus":1
-             },
-             {
+                         {
                 "adSourceName":"admob",
                 "adFormatType":"int",
                 "adPlaceID":"ca-app-pub-5386258317333363\/2004242420",
                 "adStatus":1
              },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/3105571100",
-                "adStatus":1
-             },
-             {
+                        {
                 "adSourceName":"admob",
                 "adFormatType":"int",
                 "adPlaceID":"ca-app-pub-5386258317333363\/8616045940",
@@ -146,7 +106,7 @@
              {
                 "adSourceName":"admob",
                 "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/4227081089",
+                "adPlaceID":"ca-app-pub-5386258317333363\/1496991872",
                 "adStatus":1
       
              }
@@ -154,4 +114,3 @@
        }
     ]
  }
-
