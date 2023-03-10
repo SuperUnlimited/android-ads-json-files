@@ -1,116 +1,114 @@
 {
-    "ads":[
-       {
-          "adPlaceID":"app_launch_full",
-          "adStatus":1,
-          "showCloseSize":30,
-          "backGroundColor":"#5c000000",
-          "interval":10,
-          "isBack":0,
-          "adStyle":1,
-          "showTime":6,
-          "limit":10,
-          "adSources":[
-             {
-                "adSourceName":"admob",
-                "adFormatType":"int",
-                "adPlaceID":"ca-app-pub-5386258317333363\/6919820896",
-                "adStatus":1
-             },
-                         {
-                "adSourceName":"admob",
-                "adFormatType":"int",
-                "adPlaceID":"ca-app-pub-5386258317333363\/4293657553",
-                "adStatus":1
-             },
-                         {
-                "adSourceName":"admob",
-                "adFormatType":"int",
-                "adPlaceID":"ca-app-pub-5386258317333363\/4102085868",
-                "adStatus":1
-             },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/6661672733",
-                "adStatus":1,
-                "adSize":"big"
-             }
-          ]
-       },
-       {
-          "adPlaceID":"vpn_connection_status_full",
-          "adStatus":1,
-          "showCloseSize":30,
-          "backGroundColor":"#5c000000",
-          "interval":10,
-          "isBack":0,
-          "adStyle":1,
-          "showTime":6,
-          "adSources":[
-             {
-                "adSourceName":"admob",
-                "adFormatType":"int",
-                "adPlaceID":"ca-app-pub-5386258317333363\/3910514173",
-                "adStatus":1,
-                "adSize":"big"
-             },
-                         {
-                "adSourceName":"admob",
-                "adFormatType":"int",
-                "adPlaceID":"ca-app-pub-5386258317333363\/6345105821",
-                "adStatus":1,
-                "adSize":"big"
-             },
-                         {
-                "adSourceName":"admob",
-                "adFormatType":"int",
-                "adPlaceID":"ca-app-pub-5386258317333363\/9901207458",
-                "adStatus":1,
-                "adSize":"big"
-             },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/2638667245",
-                "adStatus":1,
-                "adSize":"big"
-             }
-          ]
-       },
-       
-       {
-          "adPlaceID":"vpn_disconnection_status_full",
-          "adStatus":1,
-          "isBack":0,
-          "adStyle":1,
-          "adSources":[
-             {
-                "adSourceName":"admob",
-                "adFormatType":"int",
-                "adPlaceID":"ca-app-pub-5386258317333363\/3291567071",
-                "adStatus":1
-             },
-                         {
-                "adSourceName":"admob",
-                "adFormatType":"int",
-                "adPlaceID":"ca-app-pub-5386258317333363\/2004242420",
-                "adStatus":1
-             },
-                        {
-                "adSourceName":"admob",
-                "adFormatType":"int",
-                "adPlaceID":"ca-app-pub-5386258317333363\/8616045940",
-                "adStatus":1
-             },
-             {
-                "adSourceName":"admob",
-                "adFormatType":"adv_nav",
-                "adPlaceID":"ca-app-pub-5386258317333363\/1496991872",
-                "adStatus":1
-      
-             }
-          ]
-       }
-    ]
- }
+  "ads": [
+    {
+      "adPlaceID": "app_launch_full",
+      "adStatus": 1,
+      "showCloseSize": 30,
+      "backGroundColor": "#5c000000",
+      "interval": 10,
+      "isBack": 0,
+      "adStyle": 1,
+      "showTime": 6,
+      "limit": 10,
+      "adSources": [
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-5386258317333363\/6919820896"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-5386258317333363\/4293657553"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-5386258317333363\/4102085868"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adSize": "big",
+          "adFormatType": "adv_nav",
+          "adPlaceID": "ca-app-pub-5386258317333363\/6661672733"
+        }
+      ]
+    },
+    {
+      "adPlaceID": "vpn_connection_status_full",
+      "adStatus": 1,
+      "showCloseSize": 30,
+      "backGroundColor": "#5c000000",
+      "interval": 10,
+      "isBack": 0,
+      "adStyle": 1,
+      "showTime": 6,
+      "adSources": [
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adSize": "big",
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-5386258317333363\/3910514173"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adSize": "big",
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-5386258317333363\/6345105821"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adSize": "big",
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-5386258317333363\/9901207458"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adSize": "big",
+          "adFormatType": "adv_nav",
+          "adPlaceID": "ca-app-pub-5386258317333363\/2638667245"
+        }
+      ]
+    },
+    {
+      "adPlaceID": "vpn_disconnection_status_full",
+      "adStatus": 1,
+      "isBack": 0,
+      "adStyle": 1,
+      "adSources": [
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-5386258317333363\/3291567071"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-5386258317333363\/2004242420"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-5386258317333363\/8616045940"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "adv_nav",
+          "adPlaceID": "ca-app-pub-5386258317333363\/1496991872"
+        }
+      ]
+    }
+  ]
+}
