@@ -6,20 +6,30 @@
         "units": [
           {
             "type": "int",
-            "identifier": "ca-app-pub-5386258317333363/3172216066"
+            "identifier": "ca-app-pub-3940256099942544/1033173712"
+          },
+          {
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-3940256099942544/1044960115"
           }
         ]
       },
       {
         "name": "native_banner_ad",
         "units": [
-          
+          {
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-3940256099942544/1044960115"
+          }
         ]
       },
       {
         "name": "banner_ad",
         "units": [
-          
+          {
+            "type": "ban",
+            "identifier": "ca-app-pub-3940256099942544/6300978111"
+          }
         ]
       }
     ]
